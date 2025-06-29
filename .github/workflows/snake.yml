@@ -27,4 +27,4 @@ jobs:
           message: "Atualiza Snake Game SVG"
           add: "dist/github-contribution-grid-snake.svg"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{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}}
